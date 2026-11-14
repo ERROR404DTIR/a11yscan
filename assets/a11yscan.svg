@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" role="img" aria-labelledby="t d">
+<title id="t">A11yScan</title><desc id="d">Animated accessible interface symbols</desc>
+<rect width="1200" height="220" rx="24" fill="#181825"/>
+<g fill="none" stroke="#89b4fa" stroke-width="5" stroke-linecap="round"><circle cx="115" cy="82" r="25"/><path d="M115 109v52m-38-30h76m-38 30l-27 35m27-35l27 35"/></g>
+<g fill="#a6e3a1"><circle cx="115" cy="42" r="7"><animate attributeName="cy" values="42;34;42" dur="2s" repeatCount="indefinite"/></circle></g>
+<text x="220" y="101" fill="#cdd6f4" font-family="monospace" font-size="58" font-weight="700">A11YSCAN</text>
+<text x="224" y="145" fill="#a6adc8" font-family="monospace" font-size="20">STATIC HTML ACCESSIBILITY CHECKS</text>
+<g fill="none" stroke="#45475a" stroke-width="5"><rect x="850" y="45" width="270" height="125" rx="12"/><path d="M875 80h220M875 112h155M875 144h185"/></g>
+<circle cx="1090" cy="80" r="7" fill="#a6e3a1"><animate attributeName="opacity" values=".25;1;.25" dur="1.7s" repeatCount="indefinite"/></circle>
+<text x="60" y="205" fill="#6c7086" font-family="monospace" font-size="15">WCAG-ORIENTED / JSON / GITHUB ACTIONS</text>
+</svg>
